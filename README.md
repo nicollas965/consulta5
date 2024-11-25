@@ -36,3 +36,6 @@ frontend/
 └── public/
 
 npm install react-router-dom
+
+npm install react react-dom react-router-dom
+npm install -D @types/react @types/react-dom @types/react-router-dom
